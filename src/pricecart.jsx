@@ -21,7 +21,7 @@ function Cards(props){
               <li className="fa-li"><span className="fa-li"><i className="fas fa-times"></i></span>{props.status}</li>
             </ul>
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a href="https://www.google.com" className="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
